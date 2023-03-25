@@ -646,13 +646,13 @@ h3 {
     
     .description__illustration {
         margin: initial;
-        width: 43%;
+        width: 43.5%;
         align-self: flex-start;
         margin-top: 1.9rem;
     }
 
     .description__content-container {
-        width: 57%;
+        width: 56.5%;
     }
     
     .description__content {
