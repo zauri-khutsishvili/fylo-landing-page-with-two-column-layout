@@ -605,7 +605,7 @@ h3 {
     }
 
     .header__cta-input-container {
-        width: 61.7%;
+        width: 61.6%;
     }
     
     .header__cta .header__cta-input-container > #email-1 {
@@ -623,7 +623,7 @@ h3 {
         margin: initial;
         text-align: center;
         font-size: .875rem;
-        width: 38.3%;
+        width: 38.4%;
         min-height: 2.8125rem;
     }
 
@@ -634,7 +634,7 @@ h3 {
     .description__container {
         display: flex;
         flex-direction: row-reverse;
-        gap: 4rem;
+        gap: 2rem;
     }
     
     .description::before {
@@ -646,13 +646,13 @@ h3 {
     
     .description__illustration {
         margin: initial;
-        width: 42.3%;
+        width: 45%;
         align-self: flex-start;
         margin-top: 1.9rem;
     }
 
     .description__content-container {
-        width: 57.7%;
+        width: 55%;
     }
     
     .description__content {
