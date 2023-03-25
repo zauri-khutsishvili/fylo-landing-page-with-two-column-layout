@@ -646,13 +646,13 @@ h3 {
     
     .description__illustration {
         margin: initial;
-        width: 44%;
+        width: 43%;
         align-self: flex-start;
         margin-top: 1.9rem;
     }
 
     .description__content-container {
-        width: 56%;
+        width: 57%;
     }
     
     .description__content {
@@ -667,7 +667,7 @@ h3 {
     .description__description {
         color: var(--very-dark-blue);
         margin-bottom: 0;
-        max-width: 80%;
+        max-width: 75%;
     }
     
     .description__cta {
